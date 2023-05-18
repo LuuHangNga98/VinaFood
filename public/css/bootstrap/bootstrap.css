@@ -1,0 +1,5 @@
+.navbar-collapse.collapse {
+    display: block!important; 
+    padding-bottom: 0;
+    overflow: visible!important;
+}
