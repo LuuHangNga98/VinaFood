@@ -173,7 +173,7 @@
     					</div>
     				</div>
     			</div>
-    			<div class="col-lg-4 d-flex ftco-animate">
+    			<!-- <div class="col-lg-4 d-flex ftco-animate">
     				<div class="services-wrap d-flex">
     					<a href="#" class="img" style="background-image: url(images/pizza-2.jpg);"></a>
     					<div class="text p-4">
@@ -223,7 +223,7 @@
     						<p class="price"><span>$2.90</span> <a href="#" class="ml-2 btn btn-white btn-outline-white">Order</a></p>
     					</div>
     				</div>
-    			</div>
+    			</div> -->
     		</div>
     	</div>
 
@@ -558,7 +558,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-4 d-flex ftco-animate">
+          <!-- <div class="col-md-4 d-flex ftco-animate">
           	<div class="blog-entry align-self-stretch">
               <a href="blog-single.html" class="block-20" style="background-image: url('images/image_2.jpg');">
               </a>
@@ -587,7 +587,7 @@
                 <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
               </div>
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
     </section>
