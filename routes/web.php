@@ -23,6 +23,15 @@ Route::get('/', [ClientController::class,'index'])->name('home');
 Route::get('/menu', function () {
     return view('Client/Main_pages/menu');
 });
+
+Route::get('/login', function () {
+    return view('Client/Main_pages/login');
+});
+
+Route::get('/regis', function () {
+    return view('Client/Main_pages/register');
+});
+
 Route::get('/contact', function () {
     return view('Client/Main_pages/contact');
 });
